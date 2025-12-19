@@ -4,7 +4,7 @@ Created application that supports pagination from API
 
 ## What I learned
 - Create application that supports pagination and sync it to my app so user can paginate through data
-- Learned how to set up pagination in api to take in **page** and **limit**
+- Learned how to set up pagination in api to take in **page number** and **limit**
 - Create next and previous functions in my page to tie to composable buttons to trigger pagination
 - Ensure page is incremented on next() and decremented on previous()
 
